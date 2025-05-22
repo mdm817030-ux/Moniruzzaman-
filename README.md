@@ -3,7 +3,7 @@
             ☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆ 
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝐎𝐖𝐍𝐄𝐑+𝐎𝐅+:+𝐂𝐘𝐁𝐄𝐑+☢️_𖣘+-𝐁𝐎𝐓+⚠️+𝑻𝑬𝑨𝑴_☢️">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝐎𝐖𝐍𝐄𝐑+𝐎𝐅:𝐂𝐘𝐁𝐄𝐑+☢️_𖣘-𝐁𝐎𝐓+⚠️+𝑻𝑬𝑨𝑴_☢️">
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am ullash ッ   %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
